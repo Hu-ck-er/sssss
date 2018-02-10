@@ -11,11 +11,11 @@
 
 1️⃣┇افتح ترمنال وحط
 
-git clone https://github.com/moodlIMyIl/TshAkEapi
+git clone https://github.com/Hu-ck-er/sssss
 
 2️⃣┇انتر وراه حط،
 
-cd TshAkEapi 
+cd sssss
 
 3️⃣┇وانتر وراه حط
 
